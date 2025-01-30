@@ -16,7 +16,7 @@ This project aims to develop a machine learning model to predict taxi fares base
 
 📂 ***Dataset***
 
-Source: Kaggle NYC Taxi Fare Prediction
+Source:[https://www.kaggle.com/c/new-york-city-taxi-fare-prediction]
 
 Description: The dataset contains over 55 million records, including the following key features:
 
