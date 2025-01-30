@@ -1,4 +1,4 @@
-🚕 New York City Taxi Fare Prediction
+🚕 ***New York City Taxi Fare Prediction***
 
 > Predicting taxi fares in New York City using machine learning techniques for accurate and data-driven predictions.
 
@@ -7,14 +7,14 @@
 
 ---
 
-📖 Project Overview
+📖 ***Project Overview***
 
 This project aims to develop a machine learning model to predict taxi fares based on features such as pickup and drop-off locations, timestamps, and passenger count. The objective is to deliver accurate and efficient fare predictions.
 
 
 ---
 
-📂 Dataset
+📂 ***Dataset***
 
 Source: Kaggle NYC Taxi Fare Prediction
 
@@ -33,7 +33,7 @@ Fare Amount
 
 ---
 
-🛠️ Project Workflow
+🛠️ ***Project Workflow***
 
 1️⃣ Data Exploration & Cleaning
 
@@ -44,14 +44,14 @@ Cleaned missing values
 Optimized memory usage
 
 
-2️⃣ Feature Engineering
+2️⃣ ***Feature Engineering***
 
 Created time-based features such as hour, day, and month
 
 Calculated geospatial distance to improve model performance
 
 
-3️⃣ Model Development
+3️⃣ ***Model Development***
 
 Developed and compared machine learning models:
 
@@ -65,7 +65,7 @@ XGBoost Regressor
 
 
 
-4️⃣ Model Evaluation
+4️⃣ ***Model Evaluation***
 
 Measured performance using Mean Squared Error (MSE)
 
@@ -75,7 +75,7 @@ Fine-tuned hyperparameters for improved accuracy
 
 ---
 
-📊 Key Results
+📊 ***Key Results***
 
 Best Model: XGBoost Regressor
 
@@ -87,7 +87,7 @@ Application: Ideal for use by ride-hailing platforms for precise fare estimates
 
 ---
 
-💻 Tools & Technologies
+💻 ***Tools & Technologies***
 
 Programming Language: Python
 
